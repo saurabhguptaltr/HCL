@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from -->
 	</parent>
 	<groupId>com.hcl</groupId>
-	<artifactId>sso</artifactId>
+	<artifactId>insurance</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sso</name>
 	<description>Enable Single Sign-On to Your Spring Boot Web App</description>
