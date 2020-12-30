@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS TBL_PAYMENT;
+ 
+CREATE TABLE TBL_PAYMENT (
+  payment_id INT AUTO_INCREMENT  PRIMARY KEY,
+  insurance_id INT ,
+  ticket_id INT NOT NULL,
+  total_price DOUBLE NOT NULL,
+  status VARCHAR(250) NOT NULL
+);
